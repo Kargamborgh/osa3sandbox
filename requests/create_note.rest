@@ -2,6 +2,6 @@ POST http://localhost:3001/api/notes
 Content-Type: application/json
 
 {
-    "content": "VS Code Rest Client rulez",
+    "content": "Mongoose rulez",
     "important": false
 }
